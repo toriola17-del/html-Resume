@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Resume</title>
+</head>
+<body>
+    <h1>RESUME</h1>
+    <img src="../Portfolio/Asset/WhatsApp Image 2025-09-28 at 22.19.46_9cd4ab21.jpg" height="200" alt="My Picture"/>
+    <h2>TORIOLA SODIQ OLADAPO</h2>
+    <p>+234 8062125784 |Toriola17@gmail.com |26, Lateef Toriola Street, Ijegun ikotun, Lagos.</p>
+    <h3><a href="../Portfolio/Public/profilesummary.html">PROFILE SUMMARY</a></h3>
+    <img src="../Portfolio/Asset/Screenshot 2025-09-28 224223.png" height="200" alt="Profile Simmary Preview"/>
+    <h3><a href="../Portfolio/Public/professionalexperience.html">PROFESSIONAL EXPERIENCE</a></h3>
+    <img src="../Portfolio/Asset/Screenshot 2025-09-28 224441.png" height="200" alt="Professional sum Prev"/>
+    <h3><a href="../Portfolio/Public/skills.html">SKILLS</a></h3>
+    <img src="../Portfolio/Asset/Screenshot 2025-09-28 224535.png" height="200" alt="Skills Preview"/>
+    <h3><a href="../Portfolio/Public/trainings.html">TRAINNINGS</a></h3>
+    <img src="../Portfolio/Asset/Screenshot 2025-09-28 224621.png" height="200" alt="Trainning Preview"/> 
+</body>
+</html>
+
+<h1>PROFILE SUMMARY</h1>
+<p>A highly skilled Mechanical Engineer with a Bachelor of Science degree from Lagos State University, 
+complemented by hands-on experience in power system operation and maintenance technician roles at 
+Chevron Nigeria Limited and Rafem Technical Company, respectively. Seeking to leverage expertise 
+in mechanical engineering and certification coordination to contribute effectively to a dynamic 
+organization's operations and projects, while continuously expanding knowledge and skills in the field.</p>
+
+<h1>PROFESSIONAL EXPERIENCE</h1>
+<h3>ENGINE MAINTENANCE TECHNICIAN AND  POWER SYSTEM OPERATOR</h3>
+<h4>Chevron Hospital, Chevron Nig Ltd | 2019 - 2024</h4>
+<ul>
+    <li>Maintain the CAT engine, servicing them.</li>
+    <li>Monitor and Control: Ensure stable power supply by monitoring and managing the grid in real-time.</li>
+    <li>Load Management: Balance supply and demand to prevent overloads.</li>
+    <li>Data Analysis: Analyze data to optimize grid performance and prepare reports.</li>
+    <li>Coordination: Work with power plants and transmission operators for efficient operations.</li>
+</ul>
+<h3>Machinist (Metal fabrication Technician) Freelance</h3>
+<h4>Top-Tech Engineering Company | 2020 - 2021</h4>
+<ul>
+    <li>Operate lathe, drilling, and welding machines to shape and assemble metal components.</li>
+    <li>Set up and adjust machine tools for precision cutting, drilling, or welding tasks.</li>
+    <li>Perform routine maintenance and troubleshooting on machinery.</li>
+    <li>Ensure safety protocols and quality standards are met during operations.</li>
+    <li>Read and interpret technical drawings to guide machining and welding processes.</li>
+</ul>
+<h3>Solar System Installer</h3>
+<h4>Astech Eergy Solution |  2017 - 2018</h4>
+<ul>
+    <li>Install Systems : Set up and install solar panels and related equipment.</li>
+    <li>Site Assessment : Evaluate sites to determine optimal placement for solar panels.</li>
+    <li>System Testing : Test installed systems to ensure proper operation.</li>
+    <li>Maintenance and Repair : Perform routine maintenance and repairs on solar systems.</li>
+    <li>Safety Compliance : Follow safety protocols and industry standards.</li>
+</ul>
+
+
+<h1>SKILLS</h1>
+<ul>
+    <li>Proficient in Microsoft Office suite, including Excel, PowerPoint, and AutoCAD.</li>
+    <li>Experienced in maintenance and servicing of 1000kV diesel engines, including Cummins and Perkins models.</li>
+    <li>Experienced in the operation and maintenance of 11kV high voltage switchgear and 415V low voltage switchgear panels.</li>
+    <li>Skilled in PLC monitoring and control system operation for power switchgear and generating units.</li>
+    <li>Proficient in using power management systems to generate, manage, and stabilize power for entire systems.</li>
+</ul>
+
+
+
+<h1>TRAINNINGS ATTENDENDED</h1>
+<ol>
+    <li>Fire watch training (facilitated by chevron Nigeria limited Lagos) 2019.</li>
+    <li>Portable gas detection and Basic firefighting – equipment handling and usage.  (facilitated by chevron Nigeria limited Lagos)</li>
+    <li>Precision Measurement and Calibration (facilitated by Top-Tech Engineering Company) </li>
+    <li>Metal Fabrication and Welding (facilitated by Top-Tech Engineering Company)</li>
+    <li>Managing safe work (MSW) (facilitated by chevron Nigeria limited Lagos)</li>
+    <li>Work permitting, planning risk assessment and stop work authority. (facilitated by chevron Nigeria limited Lagos)</li>
+</ol>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
